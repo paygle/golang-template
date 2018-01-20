@@ -21,33 +21,34 @@
 * 在CMD中执行 go env 查看环境是否配置正确
 
 ## 请先安装完成go运行环境，以下可选第三方源码包
+```txt
+github.com/derekparker/delve/cmd/dlv
+github.com/nsf/gocode
+github.com/acroca/go-symbols
+github.com/ramya-rao-a/go-outline
+github.com/rogpeppe/godef
+github.com/sqs/goreturns
+github.com/uudashr/gopkgs
+github.com/golang/lint/golint
+github.com/golang/protobuf/protoc-gen-go
+github.com/MichaelTJones/walk
 
-> github.com/derekparker/delve/cmd/dlv
-> github.com/nsf/gocode
-> github.com/acroca/go-symbols
-> github.com/ramya-rao-a/go-outline
-> github.com/rogpeppe/godef
-> github.com/sqs/goreturns
-> github.com/uudashr/gopkgs
-> github.com/golang/lint/golint
-> github.com/golang/protobuf/protoc-gen-go
-> github.com/MichaelTJones/walk
+google.golang.org/grpc
+golang.org/x/text
+golang.org/x/net/html
+golang.org/x/net/context
+golang.org/x/net/websocket
+golang.org/x/tools/cmd/goimports
+golang.org/x/tools/cmd/gorename
+golang.org/x/tools/cmd/guru
+golang.org/x/tools/cmd/gotype
+golang.org/x/tools/cmd/godoc
 
-> google.golang.org/grpc
-> golang.org/x/text
-> golang.org/x/net/html
-> golang.org/x/net/context
-> golang.org/x/net/websocket
-> golang.org/x/tools/cmd/goimports
-> golang.org/x/tools/cmd/gorename
-> golang.org/x/tools/cmd/guru
-> golang.org/x/tools/cmd/gotype
-> golang.org/x/tools/cmd/godoc
-
-> github.com/astaxie/beego
-> github.com/beego/bee
-> github.com/go-sql-driver/mysql
-> gopkg.in/mgo.v2
+github.com/astaxie/beego
+github.com/beego/bee
+github.com/go-sql-driver/mysql
+gopkg.in/mgo.v2
+```
 
 ## dep 帮助
 
