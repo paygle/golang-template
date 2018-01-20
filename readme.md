@@ -1,6 +1,6 @@
-# go语言环境搭建-简单模板
+# go语言环境搭建-模板
 
-## 安装
+## 环境安装
 
 * 安装 go 环境 https://github.com/golang/go
 
@@ -20,7 +20,8 @@
 
 * 在CMD中执行 go env 查看环境是否配置正确
 
-## 请先安装完成go运行环境，以下可选第三方源码包
+## 第三方源码包
+
 ```txt
 github.com/derekparker/delve/cmd/dlv
 github.com/nsf/gocode
@@ -50,7 +51,7 @@ github.com/go-sql-driver/mysql
 gopkg.in/mgo.v2
 ```
 
-## dep 帮助
+## dep 依赖管理帮助
 
 ```cmd
 Usage: "dep [command]"
