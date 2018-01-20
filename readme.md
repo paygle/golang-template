@@ -1,5 +1,7 @@
 # go语言环境搭建-模板
 
+> API 参考 https://studygolang.com/pkgdoc
+
 ## 环境安装
 
 * 安装 go 环境 https://github.com/golang/go
